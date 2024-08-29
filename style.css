@@ -1,0 +1,61 @@
+
+
+.manu {
+    display: inline-block;
+    background-color: black;
+    width: 100%;
+    padding: 30px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.manu a {
+    text-decoration: none;
+    margin: 20px;
+    color: white;
+}
+
+.bannar {
+    background-color: rgba(0, 7, 45, 0.5);
+    padding: 150px 250px;
+    color: rgba(255, 255, 255, 1);
+
+}
+
+.traditional {
+    font-size: 16px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    background: rgba(255, 255, 255, 0.1);
+    width: 200px;
+    height: 25px;
+    text-align: center;
+}
+.headingText{
+    font-size: 90px;
+}
+
+.ourbackground{
+    background-color: black;
+    padding: 100px 200px 300px 200px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.img-bg{
+    position: relative;
+    right: -100px;
+}
+.img-1{
+    position: absolute;
+    width: 360px;
+    height: 540px;
+    padding-left: 0px;
+    
+}
+.img-2{
+    position: absolute;
+    width: 300px;
+    height: 420px;
+    padding-left: -150px;
+    bottom: -200px;
+    left: -150px;
+}
